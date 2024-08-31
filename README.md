@@ -22,7 +22,7 @@ Hi there 👋<br><br>🌱 I’m currently learning Data structures and algorithm
 [![](https://visitcount.itsvg.in/api?id=Mrsanyi123&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/Sanyi_D) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sanyi_d) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
