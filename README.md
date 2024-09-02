@@ -15,7 +15,7 @@ Hi there 👋<br><br>🌱 I’m currently learning Data structures and algorithm
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mrsanyi123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
