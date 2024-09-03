@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there 👋<br><br>🌱 I’m currently learning Data structures and algorithms with Python!<br>💬 Ask me about Python web development and anything you like!<br>📫 Reach Out to me at:- sanyidiriba123@gmail.com<br>🤝 Follow me on my LinkedIn:- https://www.linkedin.com/in/sanyi-diriba/<br>⚡ Fun Fact: Not just me, even my computer thinks twice before deciding!<br><br><br><br>
 
+ ---
+  [![](https://visitcount.itsvg.in/api?id=Mrsanyi123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanyi-diriba/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sanyi_d123/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sanyi_Diriba)[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Sanyi-Diriba-1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Sanyi-Diriba)
