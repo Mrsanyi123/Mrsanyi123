@@ -3,14 +3,8 @@ Hi there 👋
 
 🚀 I’m **Sanyi Diriba**, a 16-year-old self-taught developer from Ethiopia.  
 💻 I love building products, solving problems, and turning ideas into real apps.  
-🌱 Currently learning **Data Structures & Algorithms with Python** and improving my problem-solving skills.  
 🛠️ Currently building projects like **YScroll** to help people reduce endless scrolling and stay productive.  
 🎯 Goal: build impactful products and launch a successful startup.  
-💬 Ask me about **Python, web development, startups, or productivity tools**.  
-📫 Reach me at: **sanyidiriba123@gmail.com**  
-🤝 Connect with me: **https://www.linkedin.com/in/sanyi-diriba/**  
-
-⚡ Fun fact: I enjoy solving coding problems almost as much as building products.
 
 ---
 
@@ -44,8 +38,5 @@ Hi there 👋
 
 ### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 💰 Support
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sanyidiriba)
 
 <!-- Proudly created with GPRM -->
