@@ -21,3 +21,5 @@ Projects done
 [![X](https://img.shields.io/badge/X-5,725%20followers-black.svg?logo=X&logoColor=white)](https://x.com/imsanyidiriba)
 [![YouTube](https://img.shields.io/badge/YouTube-6.67K%20subs-red.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Sanyi-Diriba)
 [![Telegram](https://img.shields.io/badge/Telegram-2,300%20members-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/thesanyi)
+
+[![Sanyi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Mrsanyi123=Mrsanyi123&theme=dracula)](https://github.com/Mrsanyi123/github-readme-activity-graph)
