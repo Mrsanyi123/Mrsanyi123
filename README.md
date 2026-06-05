@@ -15,7 +15,7 @@ Projects done
 - https://getshiplog.site , an ai that writes your changelog for your product and shows it to your users.
 
 
-#### find me here 
+#### find me here   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-27,600%20followers-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanyi-diriba/)
 [![X](https://img.shields.io/badge/X-5,725%20followers-black.svg?logo=X&logoColor=white)](https://x.com/imsanyidiriba)
