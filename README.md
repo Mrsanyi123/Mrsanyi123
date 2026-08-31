@@ -17,8 +17,8 @@ Projects done
 
 #### find me here   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-27,600%20followers-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanyi-diriba/)
-[![X](https://img.shields.io/badge/X-5,725%20followers-black.svg?logo=X&logoColor=white)](https://x.com/imsanyidiriba)
-[![YouTube](https://img.shields.io/badge/YouTube-6.67K%20subs-red.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Sanyi-Diriba)
-[![Telegram](https://img.shields.io/badge/Telegram-2,300%20members-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/thesanyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-30,700%20followers-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanyi-diriba/)
+[![X](https://img.shields.io/badge/X-6,090%20followers-black.svg?logo=X&logoColor=white)](https://x.com/imsanyidiriba)
+[![YouTube](https://img.shields.io/badge/YouTube-7.97K%20subs-red.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Sanyi-Diriba)
+[![Telegram](https://img.shields.io/badge/Telegram-2,900%20members-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/thesanyi)
 
