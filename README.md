@@ -1,6 +1,3 @@
-<img width="780" height="420" alt="neofetch-boot-Mrsanyi123" src="https://github.com/user-attachments/assets/24711501-66d2-485b-b9a3-4e0ee20eb451" />
-
-
 # Sanyi   
 
 developer | creator | founder
